@@ -1,6 +1,6 @@
 <?php
 
-namespace Drupal\generic_colors\Plugin\AiFunctionCall;
+namespace Drupal\ai_tool_ip_address\Plugin\AiFunctionCall;
 
 use Drupal\ai\Attribute\FunctionCall;
 use Drupal\ai\Base\FunctionCallBase;
