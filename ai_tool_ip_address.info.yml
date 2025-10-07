@@ -1,6 +1,6 @@
 name: 'Agent Tool - Get  IP Address'
 type: module
-description: 'Retrieves the current user\'s IP address.'
+description: 'Retrieves the current user IP address.'
 core_version_requirement: ^11 || ^10 || ^9
 package: Other
 
